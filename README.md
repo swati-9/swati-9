@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Swati Priya and I'm a Data Analyst from India**</h2>
+<h2 align="left">Hi 👋! This is Swati Priya, Data Analyst from India**</h2>
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
