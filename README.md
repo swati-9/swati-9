@@ -1,14 +1,5 @@
 <h2 align="left">Hi 👋! My name is Swati Priya and I'm a Data Analyst from India**</h2>
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
@@ -26,6 +17,11 @@
 
 
 ##### Hi there 👋
+###
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=swati-9&show_icons=true&locale=en" alt="swati-9" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=swati-9&" alt="swati-9" /></p>
+###
 
 <!--
 **swati-9/swati-9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
